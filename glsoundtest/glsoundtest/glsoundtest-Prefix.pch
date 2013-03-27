@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'glsoundtest' target in the 'glsoundtest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
